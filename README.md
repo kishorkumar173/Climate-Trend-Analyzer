@@ -34,6 +34,24 @@ Data → Cleaning → EDA → Trend Analysis → Anomaly Detection → Forecasti
 ---
 
 ## 📁 Folder Structure
+Climate-Trend-Analyzer/
+│
+├── app/
+│ └── app.py
+│
+├── src/
+│ ├── data_loader.py
+│ ├── preprocess.py
+│ ├── eda.py
+│ ├── anomaly.py
+│ └── forecast.py
+│
+├── data/ (not uploaded)
+├── outputs/
+├── images/
+├── requirements.txt
+├── README.md
+└── main.py
 
 ---
 

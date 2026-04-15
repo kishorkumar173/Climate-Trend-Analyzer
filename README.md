@@ -48,3 +48,9 @@ Data → Cleaning → EDA → Trend Analysis → Anomaly Detection → Forecasti
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
+
+## 🎥 Demo Video
+(Upload video to GitHub or Drive and paste link here)
+
+## ⚠️ Note
+Due to dataset size (~500MB), the application is demonstrated locally.

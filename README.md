@@ -92,3 +92,41 @@ streamlit run app/app.py
 🔮 Forecast
 
 🌐 Dashboard
+
+📊 Key Insights
+Temperature shows a gradual increasing trend over time
+Multiple anomalies detected indicating extreme climate conditions
+Forecast suggests a continued rise in temperature
+⚠️ Deployment Note
+
+Due to dataset size (~500MB), the full dataset is used locally.
+
+A lightweight or external data approach is recommended for cloud deployment.
+
+🌍 Real-World Applications
+Climate Monitoring Systems
+Environmental Research
+Smart City Planning
+Agriculture & Weather Forecasting
+Sustainability Analytics
+🔮 Future Improvements
+Add real-time API integration
+Implement advanced models (ARIMA, LSTM)
+Build geospatial visualization (maps)
+Add CO₂ and rainfall analysis
+Deploy using cloud-based data pipelines
+👨‍💻 Author
+
+Kishor Kumar L
+
+
+---
+
+# ✅ 🔥 AFTER THIS
+
+Run:
+
+```bash
+git add README.md
+git commit -m "Updated professional README"
+git push
